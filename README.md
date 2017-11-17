@@ -1,5 +1,6 @@
 # Keyboard simulator
 [Link to github-pages version](https://andreyelek.github.io/keyboard-simulator)
+PS: Please switch to the english keyboard layout, when you click on the link
 ## Available Scripts
 
 In the project directory, you can run:
