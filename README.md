@@ -1,4 +1,5 @@
 # Keyboard simulator
+[Link to github-pages version](https://andreyelek.github.io/keyboard-simulator)
 ## Available Scripts
 
 In the project directory, you can run:
