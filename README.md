@@ -1,5 +1,5 @@
 # Keyboard simulator
-[Link to github-pages version](https://andreyelek.github.io/keyboard-simulator)
+[Link to github-pages version](https://fuchinoko.github.io/keyboard-simulator)
 PS: Please switch to the english keyboard layout, when you click on the link
 ## Available Scripts
 
